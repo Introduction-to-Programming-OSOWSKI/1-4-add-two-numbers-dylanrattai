@@ -1,1 +1,4 @@
-#WRITE YOUR CODE IN THIS FILE
+def add(numOne, numTwo):
+    return numOne + numTwo
+
+print(add(1, 1))
